@@ -45,4 +45,6 @@ The formula for the morphological gradient is:
 Where:
 - **Dilate** expands the bright regions of the image.
 - **Erode** shrinks the bright regions of the image.
+  ![image](https://github.com/user-attachments/assets/73c87c4b-5254-40a4-9278-f4ac1b61beec)
+
 
